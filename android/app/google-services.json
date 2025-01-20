@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033350640648",
+    "project_id": "breedit-74eef",
+    "storage_bucket": "breedit-74eef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033350640648:android:37690e6745a8a7a5a5cdbd",
+        "android_client_info": {
+          "package_name": "com.example.breedit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzu2ezFLR2DvffXsIqQqvU2F2U-k3mkgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

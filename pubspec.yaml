@@ -50,6 +50,7 @@ dependencies:
   permission_handler: ^11.3.0
   firebase_storage: ^11.6.10
   device_info_plus: ^10.1.0
+  provider: ^6.1.2
   
 flutter_native_splash:
   image: assets/pictures/green_logo.png
